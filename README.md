@@ -7,7 +7,7 @@ This contains the following:
 * LaserAdapter.stl: Adapter for a 33mm Laser module to a 40mm spindle holder.
 * Laser AirAssist 33mm: An air assist nozzle for a 33mm laser module.
 * Dyson Dustshoe Adapter: An adapter from a Dyson flexible hose to a Genmitsu dustshoe.
-* kicad/CronosMaker 4-axis Controller: Reverse-engineered schematics (partially) of a CronosMaker 4-axis grbl controller board, for the pinout of the AtMega controller.
+* CronosMaker: Reverse-engineered schematics (partially) of a CronosMaker 4-axis grbl controller board, for the pinout of the AtMega controller.
 
 
 License
